@@ -11,15 +11,15 @@ Once Docker is installed on your machine, follow the steps below to begin develo
 
 1.  Navigate to your project root directory and copy the contents of this repository to that location.
 2.  Create a copy of `make_env.dist` and rename it to `make_env`.  Update with your project specific information.
-3.  'make build'
-4.  'make shell'
-5.  'pip install -r requirements.txt'
-6.  'python3 app.py'
+3.  `make build`
+4.  `make shell`
+5.  `pip install -r requirements.txt`
+6.  `python3 app.py`
 
 # Success
 
 1.  If successful, you will see "Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)" in your console.
-2.  In a web browser, navigate to 'http://localhost:5000' and you will see "Hello world!".
+2.  In a web browser, navigate to `http://localhost:5000` and you will see "Hello world!".
 
 # Environment Variables
 
